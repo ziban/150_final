@@ -1,4 +1,4 @@
-# 150_final
+# README
 
 This is a work in progress. 
 
@@ -8,8 +8,9 @@ So far, I can measure the time using a wrapper around a CLI implementation of th
 
 I am on the way to implementing a stand alone client based on Telepy's module.  
 
-Main challenge has been working around their MTproto authentication scheme and working around their RPC based API calls.   
-Most of the work has involved reverse engineering existing client's listed below: 
+Main challenge has been working around their MTproto authentication scheme and working around their RPC based API calls.  
+
+Most of the work has involved reverse engineering existing clients' listed below: 
 
 https://github.com/vysheng/tg  
 https://github.com/luckydonald/pytg  
